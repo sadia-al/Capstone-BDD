@@ -14,7 +14,7 @@ public class RetailSignInPage  extends BaseSetup {
 		PageFactory.initElements(getDriver(), this);
 	
 	
-	
+	 
 	}
 	
 	

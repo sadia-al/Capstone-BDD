@@ -8,7 +8,7 @@ import capstone.cucumber.base.BaseSetup;
 
 public class RetailHomePage extends BaseSetup{
 	
-	public RetailHomePage() {
+	public RetailHomePage() { 
         PageFactory.initElements(getDriver(), this);
     }
 	 @FindBy(id ="signinBtn") 

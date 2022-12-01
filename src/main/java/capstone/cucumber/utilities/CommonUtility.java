@@ -29,7 +29,7 @@ public class CommonUtility extends BaseSetup {
 	public WebElement waitTillClickable(WebElement element) {
 		return this.getWait().until(ExpectedConditions.elementToBeClickable(element));
 	}
-
+ 
 	public WebElement waitTillClickable(By by) {
 		return this.getWait().until(ExpectedConditions.elementToBeClickable(by));
 	}
@@ -224,5 +224,10 @@ public class CommonUtility extends BaseSetup {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
+	}
+	
+	public void clearText(WebElement ele) {
+		
+		ele.clear();
 	}
 }
