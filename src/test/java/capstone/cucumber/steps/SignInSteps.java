@@ -25,12 +25,12 @@ public class SignInSteps extends CommonUtility{
 		logger.info(actualTitle + " is equal to " + expectedTitle);
 	}
 
-	@When("User click on Sign in option")
+	@When("User click on Sign in option") 
 	public void userClickOnSignUpOption() {
 		click(factory.signInPage().SignIn);
 		logger.info("user clicked on Sign up Button");
 
-	}
+	}  
 
 	@And("User click on login button")
 	public void userClickOnLoginButton() {
@@ -42,7 +42,7 @@ public class SignInSteps extends CommonUtility{
 	public void userShouldBeLoggedInIntoAccount() {
 		Assert.assertTrue(isElementDisplayed(factory.signInPage().account));
 		logger.info("user is logged in to account");
-		slowDown();
+		
 	}
 
 	@And("User enter email {string} and password {string}")

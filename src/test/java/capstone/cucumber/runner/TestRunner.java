@@ -8,7 +8,7 @@ import static io.cucumber.junit.CucumberOptions.SnippetType.CAMELCASE;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-        tags = "@test1",
+        tags = "@testAccount",
         features = ("classpath:features"),
         glue="capstone.cucumber",
         dryRun = false,
@@ -21,5 +21,5 @@ import static io.cucumber.junit.CucumberOptions.SnippetType.CAMELCASE;
         monochrome = true)
 
 
-public class TestRunner { 
-}
+public class TestRunner {    
+} 
