@@ -162,7 +162,7 @@ public class CommonUtility extends BaseSetup {
 	public boolean isElementSelected(WebElement ele) {
 		if (ele.isSelected()) {
 			return true;
-		} else {
+		} else { 
 			return false;
 		}
 	}

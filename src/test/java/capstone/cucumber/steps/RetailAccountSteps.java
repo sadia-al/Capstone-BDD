@@ -21,16 +21,16 @@ public class RetailAccountSteps extends CommonUtility {
 	public void userClickOnAccountOption() {
 		click(factory.signInPage().account);
 		logger.info("user clicked on account option");
-	}
+	} 
 
 	@And("User update Name {string} and Phone {string}")
 	public void userUpdateNameAndPhone(String name, String phone) {
-		clearText(factory.accountPage().nameInput);
+		clearText(factory.accountPage().nameInput); 
 		sendText(factory.accountPage().nameInput, name);
 		clearText(factory.accountPage().phoneInput);
 		sendText(factory.accountPage().phoneInput, phone);
-
-	}
+ 
+	} 
 
 	@When("User click on Update button")
 	public void userClickOnUpdateButton() {

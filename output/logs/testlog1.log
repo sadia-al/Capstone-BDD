@@ -830,3 +830,634 @@
 2022-12-01 15:17:41,719 [main] INFO logger_File - user clicked on account option
 2022-12-01 15:17:41,798 [main] INFO logger_File - User clicked on remove Address
 2022-12-01 15:17:41,824 [main] INFO logger_File - address removed successfully
+2022-12-01 16:13:29,910 [main] INFO logger_File - React App is equal to React App
+2022-12-01 16:13:30,035 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-01 16:13:30,234 [main] INFO logger_File - user enterted email and passwordEmailValue
+2022-12-01 16:14:30,770 [main] INFO logger_File - React App is equal to React App
+2022-12-01 16:14:30,871 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-01 16:14:31,069 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-01 16:14:31,133 [main] INFO logger_File - user clicked on logIn button
+2022-12-01 16:14:31,374 [main] INFO logger_File - user is logged in to account
+2022-12-01 16:14:31,489 [main] INFO logger_File - user clicked on order option
+2022-12-01 16:21:11,513 [main] INFO logger_File - React App is equal to React App
+2022-12-01 16:21:11,673 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-01 16:21:11,918 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-01 16:21:11,992 [main] INFO logger_File - user clicked on logIn button
+2022-12-01 16:21:12,206 [main] INFO logger_File - user is logged in to account
+2022-12-01 16:21:12,298 [main] INFO logger_File - user clicked on order option
+2022-12-01 16:26:55,436 [main] INFO logger_File - React App is equal to React App
+2022-12-01 16:26:55,555 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-01 16:26:55,751 [main] INFO logger_File - user enterted email and passwordEmailValue
+2022-12-01 16:27:53,042 [main] INFO logger_File - React App is equal to React App
+2022-12-01 16:27:53,154 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-01 16:27:53,358 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-01 16:27:53,424 [main] INFO logger_File - user clicked on logIn button
+2022-12-01 16:27:53,657 [main] INFO logger_File - user is logged in to account
+2022-12-01 16:27:53,766 [main] INFO logger_File - user clicked on order option
+2022-12-01 16:27:53,894 [main] INFO logger_File - user clicked on first order option
+2022-12-01 16:56:09,082 [main] INFO logger_File - React App is equal to React App
+2022-12-01 16:56:09,209 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-01 16:56:09,415 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-01 16:56:09,484 [main] INFO logger_File - user clicked on logIn button
+2022-12-01 16:56:09,749 [main] INFO logger_File - user is logged in to account
+2022-12-01 16:56:09,841 [main] INFO logger_File - user clicked on order option
+2022-12-01 16:56:09,943 [main] INFO logger_File - user clicked on first order option
+2022-12-01 17:00:58,438 [main] INFO logger_File - React App is equal to React App
+2022-12-01 17:00:58,558 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-01 17:00:58,765 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-01 17:00:58,833 [main] INFO logger_File - user clicked on logIn button
+2022-12-01 17:00:59,077 [main] INFO logger_File - user is logged in to account
+2022-12-01 17:00:59,173 [main] INFO logger_File - user clicked on order option
+2022-12-01 17:14:23,404 [main] INFO logger_File - React App is equal to React App
+2022-12-01 17:14:23,533 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-01 17:14:23,767 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-01 17:14:23,839 [main] INFO logger_File - user clicked on logIn button
+2022-12-01 17:14:24,077 [main] INFO logger_File - user is logged in to account
+2022-12-01 17:14:24,172 [main] INFO logger_File - user clicked on order option
+2022-12-01 17:14:24,289 [main] INFO logger_File - user clicked on first order option
+2022-12-01 17:14:24,378 [main] INFO logger_File - user clicked on cancel order
+2022-12-01 17:19:38,283 [main] INFO logger_File - React App is equal to React App
+2022-12-01 17:19:38,417 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-01 17:19:38,650 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-01 17:19:38,724 [main] INFO logger_File - user clicked on logIn button
+2022-12-01 17:19:38,970 [main] INFO logger_File - user is logged in to account
+2022-12-01 17:19:39,109 [main] INFO logger_File - user clicked on order option
+2022-12-01 17:19:39,198 [main] INFO logger_File - user clicked on first order option
+2022-12-01 17:19:39,281 [main] INFO logger_File - user clicked on cancel order
+2022-12-01 17:28:29,218 [main] INFO logger_File - React App is equal to React App
+2022-12-01 17:28:29,340 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-01 17:28:29,565 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-01 17:28:29,644 [main] INFO logger_File - user clicked on logIn button
+2022-12-01 17:28:29,915 [main] INFO logger_File - user is logged in to account
+2022-12-01 17:28:30,048 [main] INFO logger_File - user clicked on order option
+2022-12-01 17:28:30,143 [main] INFO logger_File - user clicked on first order option
+2022-12-01 17:28:30,243 [main] INFO logger_File - user clicked on cancel order
+2022-12-01 17:30:02,960 [main] INFO logger_File - React App is equal to React App
+2022-12-01 17:30:03,091 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-01 17:30:03,313 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-01 17:30:03,378 [main] INFO logger_File - user clicked on logIn button
+2022-12-01 17:30:03,644 [main] INFO logger_File - user is logged in to account
+2022-12-01 17:30:03,744 [main] INFO logger_File - user clicked on order option
+2022-12-01 17:30:03,833 [main] INFO logger_File - user clicked on first order option
+2022-12-01 17:30:03,916 [main] INFO logger_File - user clicked on cancel order
+2022-12-01 17:30:09,073 [main] INFO logger_File - user clicked on cancel order
+2022-12-01 17:30:09,282 [main] INFO logger_File - order canceled successfully
+2022-12-03 16:47:14,244 [main] INFO logger_File - React App is equal to React App
+2022-12-03 16:47:14,474 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-03 16:47:14,792 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-03 16:47:14,923 [main] INFO logger_File - user clicked on logIn button
+2022-12-03 16:47:15,211 [main] INFO logger_File - user is logged in to account
+2022-12-03 16:47:15,404 [main] INFO logger_File - user clicked on order option
+2022-12-03 16:47:15,528 [main] INFO logger_File - user clicked on first order option
+2022-12-03 16:50:17,532 [main] INFO logger_File - React App is equal to React App
+2022-12-03 16:50:17,784 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-03 16:50:18,137 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-03 16:50:18,272 [main] INFO logger_File - user clicked on logIn button
+2022-12-03 16:50:18,517 [main] INFO logger_File - user is logged in to account
+2022-12-03 16:50:18,719 [main] INFO logger_File - user clicked on order option
+2022-12-03 16:50:18,836 [main] INFO logger_File - user clicked on first order option
+2022-12-03 16:50:18,968 [main] INFO logger_File - User clicked on Return Items Button
+2022-12-03 16:51:34,064 [main] INFO logger_File - React App is equal to React App
+2022-12-03 16:51:34,297 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-03 16:51:34,636 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-03 16:51:34,754 [main] INFO logger_File - user clicked on logIn button
+2022-12-03 16:51:34,995 [main] INFO logger_File - user is logged in to account
+2022-12-03 16:51:35,189 [main] INFO logger_File - user clicked on order option
+2022-12-03 16:51:35,316 [main] INFO logger_File - user clicked on first order option
+2022-12-03 16:51:35,445 [main] INFO logger_File - User clicked on Return Items Button
+2022-12-03 16:53:10,521 [main] INFO logger_File - React App is equal to React App
+2022-12-03 16:53:10,739 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-03 16:53:11,030 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-03 16:53:11,149 [main] INFO logger_File - user clicked on logIn button
+2022-12-03 16:53:11,390 [main] INFO logger_File - user is logged in to account
+2022-12-03 16:53:11,540 [main] INFO logger_File - user clicked on order option
+2022-12-03 16:53:11,677 [main] INFO logger_File - user clicked on first order option
+2022-12-03 16:53:11,792 [main] INFO logger_File - User clicked on Return Items Button
+2022-12-03 16:53:11,891 [main] INFO logger_File - User Select Reason Item Damaged
+2022-12-03 16:53:11,993 [main] INFO logger_File - User select the drop off as Fedex
+2022-12-03 16:53:12,103 [main] INFO logger_File - User click on Return Order button
+2022-12-03 16:54:57,890 [main] INFO logger_File - React App is equal to React App
+2022-12-03 16:54:58,077 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-03 16:54:58,427 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-03 16:54:58,575 [main] INFO logger_File - user clicked on logIn button
+2022-12-03 16:54:59,177 [main] INFO logger_File - user is logged in to account
+2022-12-03 16:54:59,334 [main] INFO logger_File - user clicked on order option
+2022-12-03 16:54:59,514 [main] INFO logger_File - user clicked on first order option
+2022-12-03 16:54:59,633 [main] INFO logger_File - User clicked on Return Items Button
+2022-12-03 16:54:59,732 [main] INFO logger_File - User Select Reason Item Damaged
+2022-12-03 16:54:59,837 [main] INFO logger_File - User select the drop off as Fedex
+2022-12-03 16:54:59,945 [main] INFO logger_File - User click on Return Order button
+2022-12-03 16:55:00,109 [main] INFO logger_File - A cancelation message popped up on the top of the page
+2022-12-03 17:14:36,700 [main] INFO logger_File - React App is equal to React App
+2022-12-03 17:14:36,872 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-03 17:14:37,160 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-03 17:14:37,274 [main] INFO logger_File - user clicked on logIn button
+2022-12-03 17:14:37,563 [main] INFO logger_File - user is logged in to account
+2022-12-03 17:14:37,745 [main] INFO logger_File - user clicked on order option
+2022-12-03 17:14:37,867 [main] INFO logger_File - user clicked on first order option
+2022-12-03 17:14:37,979 [main] INFO logger_File - User click on Review Button
+2022-12-03 17:14:38,217 [main] INFO logger_File - User write review on headline and review text
+2022-12-03 17:14:38,320 [main] INFO logger_File - User click add review button
+2022-12-03 17:15:24,997 [main] INFO logger_File - React App is equal to React App
+2022-12-03 17:15:25,215 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-03 17:15:25,534 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-03 17:15:25,668 [main] INFO logger_File - user clicked on logIn button
+2022-12-03 17:15:25,897 [main] INFO logger_File - user is logged in to account
+2022-12-03 17:15:26,079 [main] INFO logger_File - user clicked on order option
+2022-12-03 17:15:26,196 [main] INFO logger_File - user clicked on first order option
+2022-12-03 17:15:26,319 [main] INFO logger_File - User click on Review Button
+2022-12-03 17:15:26,563 [main] INFO logger_File - User write review on headline and review text
+2022-12-03 17:15:26,665 [main] INFO logger_File - User click add review button
+2022-12-03 17:15:31,709 [main] INFO logger_File - A message diplayed Your Review Was Added Successfully
+2022-12-03 17:56:48,271 [main] INFO logger_File - React App is equal to React App
+2022-12-03 17:56:48,503 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-03 17:56:48,786 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-03 17:56:48,907 [main] INFO logger_File - user clicked on logIn button
+2022-12-03 17:56:49,188 [main] INFO logger_File - user is logged in to account
+2022-12-03 17:56:49,329 [main] INFO logger_File - User clicked on All Section successfully
+2022-12-03 17:56:49,372 [main] INFO logger_File - options Electronics, Computers, Smart Home, Sports and Automative are present
+2022-12-03 18:11:34,815 [main] INFO logger_File - React App is equal to React App
+2022-12-03 18:11:35,077 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-03 18:11:35,501 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-03 18:11:35,636 [main] INFO logger_File - user clicked on logIn button
+2022-12-03 18:11:35,871 [main] INFO logger_File - user is logged in to account
+2022-12-03 18:11:36,021 [main] INFO logger_File - User clicked on All Section successfully
+2022-12-03 18:11:39,043 [main] INFO logger_File - React App is equal to React App
+2022-12-03 18:11:39,152 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-03 18:11:39,400 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-03 18:11:39,468 [main] INFO logger_File - user clicked on logIn button
+2022-12-03 18:11:39,736 [main] INFO logger_File - user is logged in to account
+2022-12-03 18:11:39,836 [main] INFO logger_File - User clicked on All Section successfully
+2022-12-03 18:11:42,505 [main] INFO logger_File - React App is equal to React App
+2022-12-03 18:11:42,624 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-03 18:11:42,863 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-03 18:11:42,933 [main] INFO logger_File - user clicked on logIn button
+2022-12-03 18:11:43,178 [main] INFO logger_File - user is logged in to account
+2022-12-03 18:11:43,277 [main] INFO logger_File - User clicked on All Section successfully
+2022-12-03 18:11:45,891 [main] INFO logger_File - React App is equal to React App
+2022-12-03 18:11:45,999 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-03 18:11:46,223 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-03 18:11:46,294 [main] INFO logger_File - user clicked on logIn button
+2022-12-03 18:11:46,560 [main] INFO logger_File - user is logged in to account
+2022-12-03 18:11:46,657 [main] INFO logger_File - User clicked on All Section successfully
+2022-12-03 18:11:49,301 [main] INFO logger_File - React App is equal to React App
+2022-12-03 18:11:49,395 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-03 18:11:49,611 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-03 18:11:49,679 [main] INFO logger_File - user clicked on logIn button
+2022-12-03 18:11:49,932 [main] INFO logger_File - user is logged in to account
+2022-12-03 18:11:50,030 [main] INFO logger_File - User clicked on All Section successfully
+2022-12-03 18:16:38,457 [main] INFO logger_File - React App is equal to React App
+2022-12-03 18:16:38,664 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-03 18:16:38,955 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-03 18:16:39,082 [main] INFO logger_File - user clicked on logIn button
+2022-12-03 18:16:39,364 [main] INFO logger_File - user is logged in to account
+2022-12-03 18:16:39,504 [main] INFO logger_File - User clicked on All Section successfully
+2022-12-03 18:16:42,304 [main] INFO logger_File - React App is equal to React App
+2022-12-03 18:16:42,424 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-03 18:16:42,674 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-03 18:16:42,750 [main] INFO logger_File - user clicked on logIn button
+2022-12-03 18:16:42,991 [main] INFO logger_File - user is logged in to account
+2022-12-03 18:16:43,095 [main] INFO logger_File - User clicked on All Section successfully
+2022-12-03 18:16:45,784 [main] INFO logger_File - React App is equal to React App
+2022-12-03 18:16:45,879 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-03 18:16:46,100 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-03 18:16:46,167 [main] INFO logger_File - user clicked on logIn button
+2022-12-03 18:16:46,632 [main] INFO logger_File - user is logged in to account
+2022-12-03 18:16:46,732 [main] INFO logger_File - User clicked on All Section successfully
+2022-12-03 18:16:49,435 [main] INFO logger_File - React App is equal to React App
+2022-12-03 18:16:49,534 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-03 18:16:49,765 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-03 18:16:49,833 [main] INFO logger_File - user clicked on logIn button
+2022-12-03 18:16:50,322 [main] INFO logger_File - user is logged in to account
+2022-12-03 18:16:50,423 [main] INFO logger_File - User clicked on All Section successfully
+2022-12-03 18:16:53,114 [main] INFO logger_File - React App is equal to React App
+2022-12-03 18:16:53,207 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-03 18:16:53,417 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-03 18:16:53,486 [main] INFO logger_File - user clicked on logIn button
+2022-12-03 18:16:53,729 [main] INFO logger_File - user is logged in to account
+2022-12-03 18:16:53,830 [main] INFO logger_File - User clicked on All Section successfully
+2022-12-03 18:18:29,719 [main] INFO logger_File - React App is equal to React App
+2022-12-03 18:18:29,913 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-03 18:18:30,187 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-03 18:18:30,308 [main] INFO logger_File - user clicked on logIn button
+2022-12-03 18:18:30,667 [main] INFO logger_File - user is logged in to account
+2022-12-03 18:18:30,825 [main] INFO logger_File - User clicked on All Section successfully
+2022-12-03 18:18:30,861 [main] INFO logger_File - user is on Electronics section
+2022-12-03 18:18:31,024 [main] INFO logger_File - Video Games options are present in departmentTV & Video
+2022-12-03 18:18:33,685 [main] INFO logger_File - React App is equal to React App
+2022-12-03 18:18:33,806 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-03 18:18:34,044 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-03 18:18:34,118 [main] INFO logger_File - user clicked on logIn button
+2022-12-03 18:18:34,462 [main] INFO logger_File - user is logged in to account
+2022-12-03 18:18:34,564 [main] INFO logger_File - User clicked on All Section successfully
+2022-12-03 18:18:34,593 [main] INFO logger_File - user is on Computers section
+2022-12-03 18:18:34,701 [main] INFO logger_File - Accessories options are present in departmentNetworking
+2022-12-03 18:18:37,422 [main] INFO logger_File - React App is equal to React App
+2022-12-03 18:18:37,546 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-03 18:18:37,763 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-03 18:18:37,834 [main] INFO logger_File - user clicked on logIn button
+2022-12-03 18:18:38,124 [main] INFO logger_File - user is logged in to account
+2022-12-03 18:18:38,223 [main] INFO logger_File - User clicked on All Section successfully
+2022-12-03 18:18:38,250 [main] INFO logger_File - user is on Smart Home section
+2022-12-03 18:18:38,355 [main] INFO logger_File - Smart Home Lightning options are present in departmentPlugs and Outlets
+2022-12-03 18:18:40,977 [main] INFO logger_File - React App is equal to React App
+2022-12-03 18:18:41,087 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-03 18:18:41,311 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-03 18:18:41,377 [main] INFO logger_File - user clicked on logIn button
+2022-12-03 18:18:41,740 [main] INFO logger_File - user is logged in to account
+2022-12-03 18:18:41,837 [main] INFO logger_File - User clicked on All Section successfully
+2022-12-03 18:18:41,867 [main] INFO logger_File - user is on Sports section
+2022-12-03 18:18:42,025 [main] INFO logger_File - Athletic Clothing options are present in departmentExercise & Fitness
+2022-12-03 18:18:44,700 [main] INFO logger_File - React App is equal to React App
+2022-12-03 18:18:44,804 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-03 18:18:45,010 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-03 18:18:45,080 [main] INFO logger_File - user clicked on logIn button
+2022-12-03 18:18:45,325 [main] INFO logger_File - user is logged in to account
+2022-12-03 18:18:45,431 [main] INFO logger_File - User clicked on All Section successfully
+2022-12-03 18:18:45,457 [main] INFO logger_File - user is on Automotive section
+2022-12-03 18:18:45,561 [main] INFO logger_File - MotorCycle & Powersports options are present in departmentAutomative Parts & Accessories
+2022-12-03 19:47:04,028 [main] INFO logger_File - React App is equal to React App
+2022-12-03 19:47:04,299 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-03 19:47:04,658 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-03 19:47:04,782 [main] INFO logger_File - user clicked on logIn button
+2022-12-03 19:47:05,010 [main] INFO logger_File - user is logged in to account
+2022-12-03 19:47:05,174 [main] INFO logger_File - All Department changed toSmart Home
+2022-12-03 19:47:05,309 [main] INFO logger_File - user entred kasa outdoor smart plug
+2022-12-03 19:47:05,413 [main] INFO logger_File - user clicked on search button
+2022-12-03 19:47:05,649 [main] INFO logger_File - user clicked on item
+2022-12-03 19:49:01,521 [main] INFO logger_File - React App is equal to React App
+2022-12-03 19:49:01,836 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-03 19:49:02,136 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-03 19:49:02,262 [main] INFO logger_File - user clicked on logIn button
+2022-12-03 19:49:02,498 [main] INFO logger_File - user is logged in to account
+2022-12-03 19:49:02,663 [main] INFO logger_File - All Department changed toSmart Home
+2022-12-03 19:49:02,793 [main] INFO logger_File - user entred kasa outdoor smart plug
+2022-12-03 19:49:02,902 [main] INFO logger_File - user clicked on search button
+2022-12-03 19:49:03,081 [main] INFO logger_File - user clicked on item
+2022-12-03 19:50:16,997 [main] INFO logger_File - React App is equal to React App
+2022-12-03 19:50:17,183 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-03 19:50:17,445 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-03 19:50:17,558 [main] INFO logger_File - user clicked on logIn button
+2022-12-03 19:50:17,786 [main] INFO logger_File - user is logged in to account
+2022-12-03 19:50:17,943 [main] INFO logger_File - All Department changed toSmart Home
+2022-12-03 19:50:18,071 [main] INFO logger_File - user entred kasa outdoor smart plug
+2022-12-03 19:50:18,178 [main] INFO logger_File - user clicked on search button
+2022-12-03 19:50:18,348 [main] INFO logger_File - user clicked on item
+2022-12-03 19:54:25,729 [main] INFO logger_File - React App is equal to React App
+2022-12-03 19:54:25,949 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-03 19:54:26,253 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-03 19:54:26,384 [main] INFO logger_File - user clicked on logIn button
+2022-12-03 19:54:26,636 [main] INFO logger_File - user is logged in to account
+2022-12-03 19:54:26,802 [main] INFO logger_File - All Department changed toSmart Home
+2022-12-03 19:54:26,941 [main] INFO logger_File - user entred kasa outdoor smart plug
+2022-12-03 19:54:27,044 [main] INFO logger_File - user clicked on search button
+2022-12-03 19:54:27,221 [main] INFO logger_File - user clicked on item
+2022-12-03 19:54:27,416 [main] INFO logger_File - user selected quantity '2' 
+2022-12-03 19:54:27,562 [main] INFO logger_File - user clicked on Add To Cart
+2022-12-03 20:09:00,692 [main] INFO logger_File - React App is equal to React App
+2022-12-03 20:09:00,927 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-03 20:09:01,231 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-03 20:09:01,351 [main] INFO logger_File - user clicked on logIn button
+2022-12-03 20:09:01,642 [main] INFO logger_File - user is logged in to account
+2022-12-03 20:09:01,803 [main] INFO logger_File - All Department changed toSmart Home
+2022-12-03 20:09:01,930 [main] INFO logger_File - user entred kasa outdoor smart plug
+2022-12-03 20:09:02,044 [main] INFO logger_File - user clicked on search button
+2022-12-03 20:09:02,225 [main] INFO logger_File - user clicked on item
+2022-12-03 20:09:02,425 [main] INFO logger_File - user selected quantity '2' 
+2022-12-03 20:09:02,562 [main] INFO logger_File - user clicked on Add To Cart
+2022-12-03 20:09:02,600 [main] INFO logger_File - cart icone changed to '2' 
+2022-12-04 00:02:05,691 [main] INFO logger_File - React App is equal to React App
+2022-12-04 00:02:05,966 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-04 00:02:06,297 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-04 00:02:06,436 [main] INFO logger_File - user clicked on logIn button
+2022-12-04 00:02:06,675 [main] INFO logger_File - user is logged in to account
+2022-12-04 00:02:06,839 [main] INFO logger_File - All Department changed toSmart Home
+2022-12-04 00:02:06,976 [main] INFO logger_File - user entred  kasa outdoor smart plug
+2022-12-04 00:02:07,089 [main] INFO logger_File - user clicked on search button
+2022-12-04 00:05:26,933 [main] INFO logger_File - React App is equal to React App
+2022-12-04 00:05:27,089 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-04 00:05:27,375 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-04 00:05:27,482 [main] INFO logger_File - user clicked on logIn button
+2022-12-04 00:05:27,776 [main] INFO logger_File - user is logged in to account
+2022-12-04 00:05:27,933 [main] INFO logger_File - All Department changed toSmart Home
+2022-12-04 00:05:28,062 [main] INFO logger_File - user entred kasa outdoor smart plug
+2022-12-04 00:05:28,166 [main] INFO logger_File - user clicked on search button
+2022-12-04 00:05:28,339 [main] INFO logger_File - user clicked on item
+2022-12-04 00:08:10,110 [main] INFO logger_File - React App is equal to React App
+2022-12-04 00:08:10,303 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-04 00:08:10,616 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-04 00:08:10,734 [main] INFO logger_File - user clicked on logIn button
+2022-12-04 00:08:10,967 [main] INFO logger_File - user is logged in to account
+2022-12-04 00:08:11,122 [main] INFO logger_File - All Department changed toSmart Home
+2022-12-04 00:08:11,247 [main] INFO logger_File - user entred kasa outdoor smart plug
+2022-12-04 00:08:11,355 [main] INFO logger_File - user clicked on search button
+2022-12-04 00:08:11,585 [main] INFO logger_File - user clicked on item
+2022-12-04 00:08:11,799 [main] INFO logger_File - user selected quantity '2' 
+2022-12-04 00:08:11,937 [main] INFO logger_File - user clicked on Add To Cart
+2022-12-04 00:09:24,317 [main] INFO logger_File - React App is equal to React App
+2022-12-04 00:09:24,572 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-04 00:09:24,889 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-04 00:09:25,019 [main] INFO logger_File - user clicked on logIn button
+2022-12-04 00:09:25,493 [main] INFO logger_File - user is logged in to account
+2022-12-04 00:09:25,658 [main] INFO logger_File - All Department changed toSmart Home
+2022-12-04 00:09:25,792 [main] INFO logger_File - user entred kasa outdoor smart plug
+2022-12-04 00:09:25,903 [main] INFO logger_File - user clicked on search button
+2022-12-04 00:09:26,129 [main] INFO logger_File - user clicked on item
+2022-12-04 00:09:26,328 [main] INFO logger_File - user selected quantity '2' 
+2022-12-04 00:09:26,475 [main] INFO logger_File - user clicked on Add To Cart
+2022-12-04 00:09:26,518 [main] INFO logger_File - cart icone changed to '2' 
+2022-12-04 00:09:26,642 [main] INFO logger_File - user clicked on Cart Option
+2022-12-04 00:09:26,763 [main] INFO logger_File - user clicked on Proceed to Checkout
+2022-12-04 00:09:26,892 [main] INFO logger_File - user clicked on Add New Address link
+2022-12-04 00:11:23,941 [main] INFO logger_File - React App is equal to React App
+2022-12-04 00:11:24,145 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-04 00:11:24,455 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-04 00:11:24,586 [main] INFO logger_File - user clicked on logIn button
+2022-12-04 00:11:24,873 [main] INFO logger_File - user is logged in to account
+2022-12-04 00:11:25,049 [main] INFO logger_File - All Department changed toSmart Home
+2022-12-04 00:11:25,170 [main] INFO logger_File - user entred kasa outdoor smart plug
+2022-12-04 00:11:25,285 [main] INFO logger_File - user clicked on search button
+2022-12-04 00:11:25,524 [main] INFO logger_File - user clicked on item
+2022-12-04 00:11:25,734 [main] INFO logger_File - user selected quantity '2' 
+2022-12-04 00:11:25,838 [main] INFO logger_File - user clicked on Add To Cart
+2022-12-04 00:11:25,997 [main] INFO logger_File - user clicked on Cart Option
+2022-12-04 00:11:26,117 [main] INFO logger_File - user clicked on Proceed to Checkout
+2022-12-04 00:11:26,240 [main] INFO logger_File - user clicked on Add New Address link
+2022-12-04 00:15:24,186 [main] INFO logger_File - React App is equal to React App
+2022-12-04 00:15:24,573 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-04 00:15:24,870 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-04 00:15:24,984 [main] INFO logger_File - user clicked on logIn button
+2022-12-04 00:15:25,401 [main] INFO logger_File - user is logged in to account
+2022-12-04 00:15:25,567 [main] INFO logger_File - All Department changed toSmart Home
+2022-12-04 00:15:25,691 [main] INFO logger_File - user entred kasa outdoor smart plug
+2022-12-04 00:15:25,800 [main] INFO logger_File - user clicked on search button
+2022-12-04 00:15:25,975 [main] INFO logger_File - user clicked on item
+2022-12-04 00:15:26,142 [main] INFO logger_File - user selected quantity '2' 
+2022-12-04 00:15:26,282 [main] INFO logger_File - user clicked on Add To Cart
+2022-12-04 00:15:26,410 [main] INFO logger_File - user clicked on Cart Option
+2022-12-04 00:15:26,533 [main] INFO logger_File - user clicked on Proceed to Checkout
+2022-12-04 00:15:26,661 [main] INFO logger_File - user clicked on Add New Address link
+2022-12-04 00:17:00,193 [main] INFO logger_File - React App is equal to React App
+2022-12-04 00:17:00,412 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-04 00:17:00,731 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-04 00:17:00,861 [main] INFO logger_File - user clicked on logIn button
+2022-12-04 00:17:01,242 [main] INFO logger_File - user is logged in to account
+2022-12-04 00:17:01,412 [main] INFO logger_File - All Department changed toSmart Home
+2022-12-04 00:17:01,541 [main] INFO logger_File - user entred kasa outdoor smart plug
+2022-12-04 00:17:01,652 [main] INFO logger_File - user clicked on search button
+2022-12-04 00:17:01,833 [main] INFO logger_File - user clicked on item
+2022-12-04 00:17:02,024 [main] INFO logger_File - user selected quantity '2' 
+2022-12-04 00:17:02,162 [main] INFO logger_File - user clicked on Add To Cart
+2022-12-04 00:17:02,293 [main] INFO logger_File - user clicked on Cart Option
+2022-12-04 00:17:02,415 [main] INFO logger_File - user clicked on Proceed to Checkout
+2022-12-04 00:17:02,550 [main] INFO logger_File - user clicked on Add New Address link
+2022-12-04 00:18:23,716 [main] INFO logger_File - React App is equal to React App
+2022-12-04 00:18:23,928 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-04 00:18:24,368 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-04 00:18:24,510 [main] INFO logger_File - user clicked on logIn button
+2022-12-04 00:18:24,740 [main] INFO logger_File - user is logged in to account
+2022-12-04 00:18:24,922 [main] INFO logger_File - All Department changed toSmart Home
+2022-12-04 00:18:25,065 [main] INFO logger_File - user entred kasa outdoor smart plug
+2022-12-04 00:18:25,176 [main] INFO logger_File - user clicked on search button
+2022-12-04 00:18:25,407 [main] INFO logger_File - user clicked on item
+2022-12-04 00:18:25,611 [main] INFO logger_File - user selected quantity '2' 
+2022-12-04 00:18:25,798 [main] INFO logger_File - user clicked on Add To Cart
+2022-12-04 00:18:25,924 [main] INFO logger_File - user clicked on Cart Option
+2022-12-04 00:18:26,047 [main] INFO logger_File - user clicked on Proceed to Checkout
+2022-12-04 00:18:26,178 [main] INFO logger_File - user clicked on Add New Address link
+2022-12-04 00:19:07,895 [main] INFO logger_File - React App is equal to React App
+2022-12-04 00:19:08,090 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-04 00:19:08,379 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-04 00:19:08,490 [main] INFO logger_File - user clicked on logIn button
+2022-12-04 00:19:08,731 [main] INFO logger_File - user is logged in to account
+2022-12-04 00:19:08,899 [main] INFO logger_File - User clicked on All Section successfully
+2022-12-04 00:19:08,939 [main] INFO logger_File - options are present
+2022-12-04 00:19:11,697 [main] INFO logger_File - React App is equal to React App
+2022-12-04 00:19:11,803 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-04 00:19:12,051 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-04 00:19:12,123 [main] INFO logger_File - user clicked on logIn button
+2022-12-04 00:19:12,526 [main] INFO logger_File - user is logged in to account
+2022-12-04 00:19:12,631 [main] INFO logger_File - User clicked on All Section successfully
+2022-12-04 00:19:12,660 [main] INFO logger_File - user is on Electronics section
+2022-12-04 00:19:12,784 [main] INFO logger_File - Video Games options are present in departmentTV & Video
+2022-12-04 00:19:15,417 [main] INFO logger_File - React App is equal to React App
+2022-12-04 00:19:15,523 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-04 00:19:15,765 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-04 00:19:15,833 [main] INFO logger_File - user clicked on logIn button
+2022-12-04 00:19:16,098 [main] INFO logger_File - user is logged in to account
+2022-12-04 00:19:16,199 [main] INFO logger_File - User clicked on All Section successfully
+2022-12-04 00:19:16,222 [main] INFO logger_File - user is on Computers section
+2022-12-04 00:19:16,325 [main] INFO logger_File - Accessories options are present in departmentNetworking
+2022-12-04 00:19:19,097 [main] INFO logger_File - React App is equal to React App
+2022-12-04 00:19:19,219 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-04 00:19:19,425 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-04 00:19:19,494 [main] INFO logger_File - user clicked on logIn button
+2022-12-04 00:19:19,735 [main] INFO logger_File - user is logged in to account
+2022-12-04 00:19:19,832 [main] INFO logger_File - User clicked on All Section successfully
+2022-12-04 00:19:19,863 [main] INFO logger_File - user is on Smart Home section
+2022-12-04 00:19:19,976 [main] INFO logger_File - Smart Home Lightning options are present in departmentPlugs and Outlets
+2022-12-04 00:19:22,645 [main] INFO logger_File - React App is equal to React App
+2022-12-04 00:19:22,737 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-04 00:19:22,965 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-04 00:19:23,041 [main] INFO logger_File - user clicked on logIn button
+2022-12-04 00:19:23,287 [main] INFO logger_File - user is logged in to account
+2022-12-04 00:19:23,384 [main] INFO logger_File - User clicked on All Section successfully
+2022-12-04 00:19:23,413 [main] INFO logger_File - user is on Sports section
+2022-12-04 00:19:23,536 [main] INFO logger_File - Athletic Clothing options are present in departmentExercise & Fitness
+2022-12-04 00:19:26,186 [main] INFO logger_File - React App is equal to React App
+2022-12-04 00:19:26,294 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-04 00:19:26,517 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-04 00:19:26,586 [main] INFO logger_File - user clicked on logIn button
+2022-12-04 00:19:26,854 [main] INFO logger_File - user is logged in to account
+2022-12-04 00:19:26,953 [main] INFO logger_File - User clicked on All Section successfully
+2022-12-04 00:19:26,981 [main] INFO logger_File - user is on Automotive section
+2022-12-04 00:19:27,086 [main] INFO logger_File - MotorCycle & Powersports options are present in departmentAutomative Parts & Accessories
+2022-12-04 00:19:29,613 [main] INFO logger_File - React App is equal to React App
+2022-12-04 00:19:29,730 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-04 00:19:29,950 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-04 00:19:30,019 [main] INFO logger_File - user clicked on logIn button
+2022-12-04 00:19:30,253 [main] INFO logger_File - user is logged in to account
+2022-12-04 00:19:30,354 [main] INFO logger_File - All Department changed toSmart Home
+2022-12-04 00:19:30,448 [main] INFO logger_File - user entred kasa outdoor smart plug
+2022-12-04 00:19:30,509 [main] INFO logger_File - user clicked on search button
+2022-12-04 00:19:30,705 [main] INFO logger_File - user clicked on item
+2022-12-04 00:19:30,855 [main] INFO logger_File - user selected quantity '2' 
+2022-12-04 00:19:30,920 [main] INFO logger_File - user clicked on Add To Cart
+2022-12-04 00:19:34,304 [main] INFO logger_File - React App is equal to React App
+2022-12-04 00:19:34,396 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-04 00:19:34,622 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-04 00:19:34,687 [main] INFO logger_File - user clicked on logIn button
+2022-12-04 00:19:34,956 [main] INFO logger_File - user is logged in to account
+2022-12-04 00:19:35,039 [main] INFO logger_File - All Department changed toSmart Home
+2022-12-04 00:19:35,130 [main] INFO logger_File - user entred kasa outdoor smart plug
+2022-12-04 00:19:35,195 [main] INFO logger_File - user clicked on search button
+2022-12-04 00:19:35,380 [main] INFO logger_File - user clicked on item
+2022-12-04 00:19:35,568 [main] INFO logger_File - user selected quantity '2' 
+2022-12-04 00:19:35,632 [main] INFO logger_File - user clicked on Add To Cart
+2022-12-04 00:19:35,703 [main] INFO logger_File - user clicked on Cart Option
+2022-12-04 00:19:35,784 [main] INFO logger_File - user clicked on Proceed to Checkout
+2022-12-04 00:19:35,867 [main] INFO logger_File - user clicked on Add New Address link
+2022-12-04 00:19:36,454 [main] INFO logger_File - User filled the field
+2022-12-04 00:20:24,421 [main] INFO logger_File - React App is equal to React App
+2022-12-04 00:20:24,533 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-04 00:20:24,749 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-04 00:20:24,821 [main] INFO logger_File - user clicked on logIn button
+2022-12-04 00:20:25,094 [main] INFO logger_File - user is logged in to account
+2022-12-04 00:40:09,084 [main] INFO logger_File - React App is equal to React App
+2022-12-04 00:40:09,353 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-04 00:40:09,674 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-04 00:40:09,802 [main] INFO logger_File - user clicked on logIn button
+2022-12-04 00:40:10,348 [main] INFO logger_File - user is logged in to account
+2022-12-04 00:40:10,513 [main] INFO logger_File - All Department changed toSmart Home
+2022-12-04 00:40:10,676 [main] INFO logger_File - user entred kasa outdoor smart plug
+2022-12-04 00:40:10,840 [main] INFO logger_File - user clicked on search button
+2022-12-04 00:40:11,020 [main] INFO logger_File - user clicked on item
+2022-12-04 00:40:11,203 [main] INFO logger_File - user selected quantity '2' 
+2022-12-04 00:40:11,348 [main] INFO logger_File - user clicked on Add To Cart
+2022-12-04 00:40:11,480 [main] INFO logger_File - user clicked on Cart Option
+2022-12-04 00:40:11,597 [main] INFO logger_File - user clicked on Proceed to Checkout
+2022-12-04 00:40:11,730 [main] INFO logger_File - user clicked on Add New Address link
+2022-12-04 00:40:12,624 [main] INFO logger_File - User filled the field
+2022-12-04 00:51:19,221 [main] INFO logger_File - React App is equal to React App
+2022-12-04 00:51:19,461 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-04 00:51:19,824 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-04 00:51:19,961 [main] INFO logger_File - user clicked on logIn button
+2022-12-04 00:51:20,187 [main] INFO logger_File - user is logged in to account
+2022-12-04 00:51:20,349 [main] INFO logger_File - All Department changed toSmart Home
+2022-12-04 00:51:20,476 [main] INFO logger_File - user entred kasa outdoor smart plug
+2022-12-04 00:51:20,599 [main] INFO logger_File - user clicked on search button
+2022-12-04 00:51:20,833 [main] INFO logger_File - user clicked on item
+2022-12-04 00:51:21,002 [main] INFO logger_File - user selected quantity '2' 
+2022-12-04 00:51:21,139 [main] INFO logger_File - user clicked on Add To Cart
+2022-12-04 00:51:21,273 [main] INFO logger_File - user clicked on Cart Option
+2022-12-04 00:51:21,394 [main] INFO logger_File - user clicked on Proceed to Checkout
+2022-12-04 00:51:21,514 [main] INFO logger_File - user clicked on Add New Address link
+2022-12-04 00:51:22,407 [main] INFO logger_File - User filled the field
+2022-12-04 00:59:34,340 [main] INFO logger_File - React App is equal to React App
+2022-12-04 00:59:34,557 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-04 00:59:34,893 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-04 00:59:35,012 [main] INFO logger_File - user clicked on logIn button
+2022-12-04 00:59:35,245 [main] INFO logger_File - user is logged in to account
+2022-12-04 00:59:35,416 [main] INFO logger_File - All Department changed toSmart Home
+2022-12-04 00:59:35,541 [main] INFO logger_File - user entred kasa outdoor smart plug
+2022-12-04 00:59:35,655 [main] INFO logger_File - user clicked on search button
+2022-12-04 00:59:35,820 [main] INFO logger_File - user clicked on item
+2022-12-04 00:59:35,992 [main] INFO logger_File - user selected quantity '2' 
+2022-12-04 00:59:36,119 [main] INFO logger_File - user clicked on Add To Cart
+2022-12-04 00:59:36,247 [main] INFO logger_File - user clicked on Cart Option
+2022-12-04 00:59:36,368 [main] INFO logger_File - user clicked on Proceed to Checkout
+2022-12-04 00:59:36,489 [main] INFO logger_File - user clicked on Add New Address link
+2022-12-04 00:59:37,383 [main] INFO logger_File - User filled the field
+2022-12-04 01:06:19,738 [main] INFO logger_File - React App is equal to React App
+2022-12-04 01:06:19,947 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-04 01:06:20,245 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-04 01:06:20,369 [main] INFO logger_File - user clicked on logIn button
+2022-12-04 01:06:20,661 [main] INFO logger_File - user is logged in to account
+2022-12-04 01:06:20,828 [main] INFO logger_File - All Department changed toSmart Home
+2022-12-04 01:06:20,954 [main] INFO logger_File - user entred kasa outdoor smart plug
+2022-12-04 01:06:21,061 [main] INFO logger_File - user clicked on search button
+2022-12-04 01:06:21,239 [main] INFO logger_File - user clicked on item
+2022-12-04 01:06:21,414 [main] INFO logger_File - user selected quantity '2' 
+2022-12-04 01:06:21,555 [main] INFO logger_File - user clicked on Add To Cart
+2022-12-04 01:06:21,685 [main] INFO logger_File - user clicked on Cart Option
+2022-12-04 01:06:21,806 [main] INFO logger_File - user clicked on Proceed to Checkout
+2022-12-04 01:06:21,930 [main] INFO logger_File - user clicked on Add New Address link
+2022-12-04 01:06:22,837 [main] INFO logger_File - User filled the field
+2022-12-04 01:19:50,009 [main] INFO logger_File - React App is equal to React App
+2022-12-04 01:19:50,296 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-04 01:19:50,696 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-04 01:19:50,830 [main] INFO logger_File - user clicked on logIn button
+2022-12-04 01:19:51,058 [main] INFO logger_File - user is logged in to account
+2022-12-04 01:19:51,221 [main] INFO logger_File - All Department changed toSmart Home
+2022-12-04 01:19:51,352 [main] INFO logger_File - user entred kasa outdoor smart plug
+2022-12-04 01:19:51,467 [main] INFO logger_File - user clicked on search button
+2022-12-04 01:19:51,646 [main] INFO logger_File - user clicked on item
+2022-12-04 01:19:51,827 [main] INFO logger_File - user selected quantity '2' 
+2022-12-04 01:19:51,974 [main] INFO logger_File - user clicked on Add To Cart
+2022-12-04 01:19:52,110 [main] INFO logger_File - user clicked on Cart Option
+2022-12-04 01:19:52,230 [main] INFO logger_File - user clicked on Proceed to Checkout
+2022-12-04 01:19:52,353 [main] INFO logger_File - user clicked on Add New Address link
+2022-12-04 01:19:53,249 [main] INFO logger_File - User filled the field
+2022-12-04 01:19:53,410 [main] INFO logger_File - user clicked Add Your Address Button
+2022-12-04 01:23:18,297 [main] INFO logger_File - React App is equal to React App
+2022-12-04 01:23:18,525 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-04 01:23:18,857 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-04 01:23:18,991 [main] INFO logger_File - user clicked on logIn button
+2022-12-04 01:23:19,223 [main] INFO logger_File - user is logged in to account
+2022-12-04 01:23:19,385 [main] INFO logger_File - All Department changed toSmart Home
+2022-12-04 01:23:19,516 [main] INFO logger_File - user entred kasa outdoor smart plug
+2022-12-04 01:23:19,627 [main] INFO logger_File - user clicked on search button
+2022-12-04 01:23:19,853 [main] INFO logger_File - user clicked on item
+2022-12-04 01:23:20,030 [main] INFO logger_File - user selected quantity '2' 
+2022-12-04 01:23:20,176 [main] INFO logger_File - user clicked on Add To Cart
+2022-12-04 01:23:20,305 [main] INFO logger_File - user clicked on Cart Option
+2022-12-04 01:23:20,424 [main] INFO logger_File - user clicked on Proceed to Checkout
+2022-12-04 01:23:20,547 [main] INFO logger_File - user clicked on Add New Address link
+2022-12-04 01:23:21,453 [main] INFO logger_File - User filled the field
+2022-12-04 01:23:21,610 [main] INFO logger_File - user clicked Add Your Address Button
+2022-12-04 01:25:56,721 [main] INFO logger_File - React App is equal to React App
+2022-12-04 01:25:56,942 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-04 01:25:57,327 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-04 01:25:57,456 [main] INFO logger_File - user clicked on logIn button
+2022-12-04 01:25:57,704 [main] INFO logger_File - user is logged in to account
+2022-12-04 01:25:57,872 [main] INFO logger_File - All Department changed toSmart Home
+2022-12-04 01:25:58,028 [main] INFO logger_File - user entred kasa outdoor smart plug
+2022-12-04 01:25:58,195 [main] INFO logger_File - user clicked on search button
+2022-12-04 01:25:58,378 [main] INFO logger_File - user clicked on item
+2022-12-04 01:25:58,558 [main] INFO logger_File - user selected quantity '2' 
+2022-12-04 01:25:58,704 [main] INFO logger_File - user clicked on Add To Cart
+2022-12-04 01:25:58,832 [main] INFO logger_File - user clicked on Cart Option
+2022-12-04 01:25:58,956 [main] INFO logger_File - user clicked on Proceed to Checkout
+2022-12-04 01:25:59,075 [main] INFO logger_File - user clicked on Add New Address link
+2022-12-04 01:25:59,975 [main] INFO logger_File - User filled the field
+2022-12-04 01:26:00,135 [main] INFO logger_File - user clicked Add Your Address Button
+2022-12-04 01:26:00,289 [main] INFO logger_File - user clicked Add a credit card information
+2022-12-04 01:26:00,875 [main] INFO logger_File - user entered required information for Debit Card
+2022-12-04 01:26:06,006 [main] INFO logger_File - user clicked on Payment submission button
+2022-12-04 01:26:11,135 [main] INFO logger_File - user clicked on Place Your Order
+2022-12-04 01:26:11,443 [main] INFO logger_File - A message popped up on the top of the screen
+2022-12-04 01:28:02,168 [main] INFO logger_File - React App is equal to React App
+2022-12-04 01:28:02,388 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-04 01:28:02,690 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-04 01:28:02,819 [main] INFO logger_File - user clicked on logIn button
+2022-12-04 01:28:03,052 [main] INFO logger_File - user is logged in to account
+2022-12-04 01:29:07,093 [main] INFO logger_File - React App is equal to React App
+2022-12-04 01:29:07,291 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-04 01:29:07,617 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-04 01:29:07,767 [main] INFO logger_File - user clicked on logIn button
+2022-12-04 01:29:08,000 [main] INFO logger_File - user is logged in to account
+2022-12-04 01:29:08,190 [main] INFO logger_File - All Department changed toElectronics
+2022-12-04 01:29:08,319 [main] INFO logger_File - user entred Apex Legends 
+2022-12-04 01:29:08,421 [main] INFO logger_File - user clicked on search button
+2022-12-04 01:31:46,258 [main] INFO logger_File - React App is equal to React App
+2022-12-04 01:31:46,434 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-04 01:31:46,715 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-04 01:31:46,834 [main] INFO logger_File - user clicked on logIn button
+2022-12-04 01:31:47,074 [main] INFO logger_File - user is logged in to account
+2022-12-04 01:31:47,233 [main] INFO logger_File - All Department changed toElectronics
+2022-12-04 01:31:47,349 [main] INFO logger_File - user entred Apex Legends
+2022-12-04 01:31:47,455 [main] INFO logger_File - user clicked on search button
+2022-12-04 01:37:05,646 [main] INFO logger_File - React App is equal to React App
+2022-12-04 01:37:05,857 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-04 01:37:06,172 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-04 01:37:06,311 [main] INFO logger_File - user clicked on logIn button
+2022-12-04 01:37:06,543 [main] INFO logger_File - user is logged in to account
+2022-12-04 01:37:06,724 [main] INFO logger_File - All Department changed toElectronics
+2022-12-04 01:37:06,847 [main] INFO logger_File - user entred Apex Legends
+2022-12-04 01:37:06,954 [main] INFO logger_File - user clicked on search button
+2022-12-04 01:38:19,304 [main] INFO logger_File - React App is equal to React App
+2022-12-04 01:38:19,518 [main] INFO logger_File - user clicked on Sign up Button
+2022-12-04 01:38:19,834 [main] INFO logger_File - user enterted email and passwordpanthersxy@tekschool.us
+2022-12-04 01:38:19,956 [main] INFO logger_File - user clicked on logIn button
+2022-12-04 01:38:20,185 [main] INFO logger_File - user is logged in to account
+2022-12-04 01:38:20,348 [main] INFO logger_File - All Department changed toElectronics
+2022-12-04 01:38:20,470 [main] INFO logger_File - user entred Apex Legends
+2022-12-04 01:38:20,577 [main] INFO logger_File - user clicked on search button
+2022-12-04 01:38:20,748 [main] INFO logger_File - user clicked on item
+2022-12-04 01:38:20,910 [main] INFO logger_File - user selected quantity '2' 
+2022-12-04 01:38:21,051 [main] INFO logger_File - user clicked on Add To Cart
+2022-12-04 01:38:21,216 [main] INFO logger_File - cart icone changed to '2' 
+2022-12-04 01:38:21,334 [main] INFO logger_File - user clicked on Cart Option
+2022-12-04 01:38:21,461 [main] INFO logger_File - user clicked on Proceed to Checkout
+2022-12-04 01:38:21,566 [main] INFO logger_File - user clicked on Place Your Order
+2022-12-04 01:38:21,786 [main] INFO logger_File - A message popped up on the top of the screen

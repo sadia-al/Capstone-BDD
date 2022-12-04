@@ -11,9 +11,9 @@ public class RetailAccountPage extends BaseSetup {
 	public RetailAccountPage() {
 		PageFactory.initElements(getDriver(), this);
 	
-	 
-	}
-	
+	  
+	} 
+	  
 	
 	
 	//remove address
